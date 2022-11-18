@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+}
+table{
+    display: flex;
+    justify-content: center;
+}
+table th{
+    font-size: 30px;
+    text-align: start;
+
+}
+table td{
+line-height: 50px;
+}
+
+table input{
+    width: 590px;
+    padding: 10px;
+    font-size: 20px;
+}
